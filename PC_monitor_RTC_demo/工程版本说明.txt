@@ -1,0 +1,6 @@
+PC_monitor_demo--2026.8.9
+初步完成基础硬件配置，USB,屏幕，显示等，作为初版裸机模板工程
+PC_monitor_v1.0--2026.8.10
+移植加入RTOS部分，RTOS调度器模块且已经测试成功可以通过FreeRTOS的软件定时器完成按键检测操作
+PC_monitor_UI_demo--2026.8.11
+作为Ui显示部分的测试所以暂时不用RTOS，布局两页UI显示内容分别显示CPU信息和GPU信息

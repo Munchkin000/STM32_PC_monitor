@@ -1,0 +1,14 @@
+PC_monitor_demo--2026.8.9
+初步完成基础硬件配置，USB,屏幕，显示等，作为初版裸机模板工程
+PC_monitor_v1.0--2026.8.10
+移植加入RTOS部分，RTOS调度器模块且已经测试成功可以通过FreeRTOS的软件定时器完成按键检测操作
+PC_monitor_UI_demo--2026.8.11
+作为Ui显示部分的测试所以暂时不用RTOS，布局两页UI显示内容分别显示CPU信息和GPU信息
+PC_monitor_PCcommunication_demo--2026.8.12
+在先前的UIdemo基础上增加USB上位机通信协议并通过上位机串口助手测试指令效果等
+PC_monitor_v1.1--2026.8.12
+将先前的裸机工程加入RTOS调度器，完成初步功能可用的RTOS工程
+PC_monitor_RTC_demo--2026.8.31
+测试RTC时钟能否正常读取，并设计时间界面UI
+PC_monitor_v1.2--2026.8.31
+将RTC时钟加入RTOS

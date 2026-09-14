@@ -1,0 +1,29 @@
+# Keil 编译输出
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.map
+*.lst
+*.bak
+*.dep
+*.iex
+*.sct
+*.build_log.htm
+*.hex
+*.bin
+*.elf
+*.uvguix.*
+DebugConfig/
+Objects/
+Listings/
+Output/
+
+# 用户设置
+.vscode/
+
+# 系统文件
+Thumbs.db
+desktop.ini
